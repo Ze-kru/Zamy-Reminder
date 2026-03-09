@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile.png" width="100px"/>
+<img src="assets/profile.png" width="150px"/>
 
 # 🍓 Zamy~reminder
 **The OwO utility bot your server actually needs**
